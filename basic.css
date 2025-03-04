@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img {
+    max-width: 20px;
+    height: 25px;
+    object-fit: cover
+}
